@@ -23,7 +23,7 @@ class PayrollEmail extends Mailable implements ShouldQueue
     ) {}
 
     /**
-     * Get the message envelope.
+     * Get the message envelope. haha
      */
     public function envelope(): Envelope
     {
